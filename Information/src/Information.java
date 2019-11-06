@@ -6,6 +6,7 @@ public class Information {
 		System.out.println("ComputerSW");
 		System.out.println("Wonkwang Univ.");
 		System.out.println("Name :유세혁");
+		System.out.println("Number : 20150669");
 	}
 
 }
