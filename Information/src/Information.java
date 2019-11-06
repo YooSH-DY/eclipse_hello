@@ -5,6 +5,7 @@ public class Information {
 		// TODO Auto-generated method stub
 		System.out.println("ComputerSW");
 		System.out.println("Wonkwang Univ.");
+		System.out.println("Name :유세혁");
 	}
 
 }
